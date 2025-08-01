@@ -46,6 +46,6 @@ MO brings life to embedded systems with **animated facial expressions** and **ra
 | Servo GND     | GND       |
 
 ---
-
+# file toward video //  https://drive.google.com/file/d/1NJbE0hK12aVupZtRDtknpgl93zq41Yuk/view?usp=drive_link
 ## 📁 File Structure
 
